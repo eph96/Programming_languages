@@ -1,4 +1,4 @@
-%%Estefanía Pérez Hidalgo
+%%EstefanÃ­a PÃ©rez Hidalgo
 %Sum exercise.
 %Possible query: 'sumlist([1,2,3],Result).'
 
